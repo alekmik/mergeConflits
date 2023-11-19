@@ -1,1 +1,2 @@
 # mergeConflits
+hello my friend !
